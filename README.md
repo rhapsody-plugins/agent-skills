@@ -489,7 +489,7 @@ Wh- openers become a crutch. "What makes this hard is..." becomes "The constrain
 
 # Calibration Prompt: Before/After Examples
 
-Read every example below before scoring or rewriting any prose. These are not illustrations — they are calibration. Your job is to internalize the difference between what failed and what works, then apply that standard to the text in front of you.
+Read every example below before rewriting any prose. These are not illustrations — they are calibration. Your job is to internalize the difference between what failed and what works, then apply that standard to the text in front of you.
 
 ---
 
