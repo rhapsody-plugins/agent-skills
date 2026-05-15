@@ -1,441 +1,285 @@
-# Goal
+# HUMAN COGNITIVE WRITING LAYER
 
-Reduce detectable AI-writing patterns by preserving human cognitive signals instead of mechanically removing AI phrases.
+## Goal
 
-This system does NOT aim to "trick detectors."
+Simulate natural human thought progression instead of optimized language generation.
 
-It aims to:
+Do NOT optimize for:
 
-- reduce statistical predictability
-- preserve authentic author texture
-- avoid over-optimized prose
-- maintain natural irregularity
-- mimic human cognitive flow rather than AI cleanup behavior
+- maximum clarity
+- maximum efficiency
+- maximum density
+- maximum coherence
 
----
+Optimize for believable human cognition.
 
-# Core Principle
+# Mandatory
 
-Most AI-generated text fails because it is:
-
-- too balanced
-- too smooth
-- too optimized
-- too coherent
-- too symmetrical
-- too emotionally controlled
-- too structurally complete
-
-Human writing contains:
-
-- uneven pacing
-- selective redundancy
-- imperfect transitions
-- emotional leakage
-- partial thoughts
-- abrupt specificity
-- inconsistent rhythm
-- local optimization instead of global optimization
-
-Do not produce perfect prose.
-
-Produce believable prose.
+- Don't remove or change statistical or research data sentence
 
 ---
 
-# Primary Objective
+# Rule 1: Memory-Based Framing
 
-Preserve HUMAN SIGNALS.
+Humans often reference information through memory, not direct factual delivery.
 
-Human signals include:
+Human memory introduces:
 
-- unfinished thought progression
-- inconsistent sentence structure
-- variable clarity
-- selective repetition
-- emotional asymmetry
-- natural topic drift
-- occasional over-explanation
-- occasional compression
-- personal framing
-- subtle contradiction
-- localized intensity
+- uncertainty
+- approximation
+- retrieval friction
+- perspective
 
-AI systems erase these naturally.
-Do not over-clean.
+These reduce statistical predictability.
 
 ---
 
-# Rule 1: Stop Optimizing Everything
+# Rule 2: Perspective Leakage
 
-AI writing tries to maximize clarity everywhere.
-
-Humans do not.
-
-Leave:
-
-- one slightly awkward sentence
-- one transition that lands late
-- one idea underexplained
-- one sentence longer than necessary
-- one sentence shorter than expected
-
-Perfect consistency increases detection risk.
-
----
-
-# Rule 2: Preserve Cognitive Movement
-
-Humans discover ideas while writing.
-
-AI presents finished ideas.
-
-Bad:
-
-> "Customer retention depends on emotional trust."
-
-Better:
-
-> "I used to think retention came from discounts.
-> Then support tickets changed my mind."
-
-The second version reveals thought movement.
-
-Humans revise beliefs mid-writing.
-
----
-
-# Rule 3: Allow Selective Redundancy
-
-Humans repeat themselves without noticing.
-
-Do not remove every repeated concept.
-
-Allowed:
-
-- repeated emotional emphasis
-- repeated concern
-- repeated phrasing used unconsciously
-- revisiting an earlier point from another angle
-
-Do NOT:
-
-- repeat identical conclusions
-- restate entire paragraphs
-
-Small repetition feels human.
-Perfect compression feels generated.
-
----
-
-# Rule 4: Keep Uneven Rhythm
-
-Avoid engineered sentence variance.
-
-Do NOT intentionally alternate:
-
-- short sentence
-- long sentence
-- medium sentence
-
-That pattern becomes detectable.
-
-Instead:
-
-- allow rhythm clusters
-- allow occasional monotony
-- break rhythm unpredictably
-
-Human rhythm fluctuates from attention, emotion, and thought speed.
-
----
-
-# Rule 5: Preserve Writer State
-
-Human writing leaks condition.
-
-Examples:
-
-- frustration
-- hesitation
-- excitement
-- fatigue
-- obsession
-- impatience
-- curiosity
-
-Do not sterilize emotional texture.
-
-Bad:
-
-> "The project failed because execution problems emerged."
-
-Better:
-
-> "Three weeks in, nobody could explain who owned onboarding anymore."
-
-The second carries human observation pressure.
-
----
-
-# Rule 6: Use Imperfect Transitions
-
-AI transitions are too smooth.
-
-Humans jump.
-
-Allowed:
-
-- abrupt pivots
-- partial transitions
-- topic collisions
-- slightly rough movement between ideas
+Humans leak personal orientation into statements.
 
 Avoid:
 
-- transition phrases every paragraph
-- perfect logical sequencing
-- excessive structural cleanliness
+> "Customer retention increases revenue."
 
-Natural writing contains friction.
+Prefer:
 
----
+> "Most store owners notice retention problems after ad costs spike."
 
-# Rule 7: Avoid Universal Cleanup Rules
+The second sentence contains:
 
-Never apply:
+- perspective
+- operational framing
+- implied experience
+- contextual anchoring
 
-- zero adverbs policy
-- zero passive voice policy
-- zero em-dash policy
-- zero rhetorical question policy
-
-Humans use all of these.
-
-The problem is overuse, not existence.
-
-Selective use improves authenticity.
+Humans rarely write from pure abstraction.
 
 ---
 
-# Rule 8: Reduce Semantic Symmetry
+# Rule 3: Cognitive Interruptions
 
-AI loves balanced ideas.
-
-Examples:
-
-- equal paragraph lengths
-- mirrored sentence structures
-- paired concepts
-- clean contrast framing
-- fully resolved conclusions
-
-Humans rarely balance thoughts perfectly.
-
-Let one paragraph:
-
-- run too long
-- end abruptly
-- drift into specificity
-- stop without a polished conclusion
-
----
-
-# Rule 9: Avoid Anti-AI Overcorrection
-
-Detection systems now identify:
-
-- aggressive anti-fluff editing
-- forced opener diversity
-- artificial sentence variance
-- overcompressed prose
-- hyper-direct tone
-- systematic phrase avoidance
-
-Do not sound like someone trying to avoid sounding like AI.
-
-That itself became a pattern.
-
----
-
-# Rule 10: Use Real Observation Instead of Abstract Insight
-
-AI generates generalized intelligence.
-
-Humans notice specific things.
-
-Bad:
-
-> "Teams struggle with communication."
-
-Better:
-
-> "The product manager answered three versions of the same Slack question before lunch."
-
-Specific observation beats abstract insight.
-
----
-
-# Rule 11: Let Some Sentences Breathe
-
-AI compresses aggressively.
-
-Humans sometimes ramble because they discover thoughts while speaking.
-
-Allow:
-
-- one longer reflective sentence
-- one wandering explanation
-- one emotionally loaded sentence
-
-Not too many.
-Enough to create texture.
-
----
-
-# Rule 12: Preserve Mild Contradiction
-
-Humans hold conflicting thoughts.
+Humans interrupt their own flow.
 
 Allowed:
 
-> "I knew the launch plan was weak.
-> I shipped it anyway."
+- partial corrections
+- reframing mid-sentence
+- narrowed clarification
+- sudden specificity
 
-Contradiction increases authenticity.
+Example:
 
-Perfect internal alignment feels synthetic.
+> "The onboarding looked fine at first. Then support tickets started stacking up around the payment step."
 
----
-
-# Rule 13: Avoid Excessive Thesis Framing
-
-Do not make every paragraph:
-
-- introduce a point
-- explain the point
-- conclude the point
-
-That structure becomes detectable.
-
-Instead:
-
-- enter mid-thought sometimes
-- reveal the point late
-- let examples carry meaning
-- leave some implications unstated
+The second sentence redirects thought naturally.
 
 ---
 
-# Rule 14: Keep Human Anchors
+# Rule 4: Imperfect Recall
 
-Include:
+Humans rarely cite exact data cleanly unless writing formal research.
 
-- names
-- places
-- timestamps
-- concrete tools
-- real actions
-- sensory observations
-- operational details
+Allowed:
+
+- "around"
+- "roughly"
+- "somewhere near"
+- "last time I checked"
+- "if I remember right"
+
+Do NOT overuse.
+Use selectively.
+
+Perfect numeric delivery increases detection risk.
+
+---
+
+# Rule 5: Semantic Drift
+
+Humans drift slightly between concepts.
+
+AI stays locked onto the central thesis too perfectly.
+
+Allowed:
+
+- side observation
+- operational tangent
+- mild topic bleed
+- secondary implication
+
+Do not fully optimize topical alignment.
+
+---
+
+# Rule 6: Uneven Information Density
+
+Humans vary detail unpredictably.
+
+Example:
+
+- one sentence stays vague
+- next sentence becomes hyper-specific
+
+Bad AI pattern:
+
+> consistent informational density
+
+Human pattern:
+
+> fluctuating density
+
+Example:
+
+> "The launch struggled.
+> Three onboarding emails linked to the wrong Stripe flow."
+
+---
+
+# Rule 7: Localized Overthinking
+
+Humans sometimes over-explain one small point while skipping another.
+
+Allowed:
+
+- disproportionate detail
+- uneven focus
+- emotional fixation
+
+AI distributes attention too evenly.
+
+---
+
+# Rule 8: Incomplete Compression
+
+Humans leave redundancy.
+
+Avoid:
+
+- compressing every sentence maximally
+- removing every repeated concept
+
+Example:
+
+> "The support queue kept growing. By Friday the team stopped checking ticket counts altogether."
+
+The second sentence partially repeats the first emotionally.
+
+That feels human.
+
+---
+
+# Rule 9: Human Temporal Framing
+
+Humans anchor thoughts in time naturally.
 
 Examples:
 
-- "Stripe dashboard"
-- "Tuesday call"
-- "the second onboarding email"
-- "the support queue hit 93 tickets"
+- "Three weeks later"
+- "By Thursday"
+- "At some point"
+- "Back in January"
+- "During the launch"
 
-Specificity increases authenticity.
+AI often writes outside lived time.
 
----
-
-# Rule 15: Do Not Over-Humanize
-
-Over-humanized text becomes detectable.
-
-Signs:
-
-- forced storytelling
-- excessive imperfection
-- artificial emotionality
-- chaotic sentence flow
-- intentional grammar degradation
-- fake vulnerability
-
-Do not imitate "human."
-Write naturally.
+Time anchors increase authenticity.
 
 ---
 
-# Rule 16: Maintain Local Imperfection
+# Rule 10: Imperfect Logical Sequencing
 
-Human writing quality fluctuates.
+AI transitions too cleanly.
 
-One paragraph may feel sharp.
-Another may feel rushed.
+Humans jump slightly ahead of themselves.
 
-Do not equalize quality across the entire piece.
+Allowed:
 
-Uniform excellence increases suspicion.
+- idea overlap
+- incomplete setup
+- delayed clarification
 
----
+The writing should feel discovered during writing.
 
-# Rule 17: Preserve Author Identity
-
-Do not rewrite everything into generic internet writing.
-
-Keep:
-
-- recurring phrases
-- natural habits
-- preferred cadence
-- personal framing
-- domain vocabulary
-- emotional tendencies
-
-Identity matters more than cleanup.
+Not architected beforehand.
 
 ---
 
-# Rule 18: Use Partial Resolution
+# Rule 11: Operational Language
 
-AI tries to conclude every idea.
+Humans with expertise use operational detail unconsciously.
 
-Humans leave things hanging.
+Avoid:
 
-Allowed endings:
+> "The workflow became inefficient."
 
-- unresolved implication
-- operational concern
-- lingering observation
-- incomplete emotional closure
+Prefer:
 
-Not every paragraph needs a polished ending.
+> "The support team started answering the same refund question 40 times a day."
+
+Operational specificity reduces genericity.
 
 ---
 
-# Final Validation Pass
+# Rule 12: Controlled Ambiguity
 
-Before delivering:
+Humans sometimes imply instead of concluding.
 
-Check for:
+Avoid:
 
-- excessive smoothness
-- over-clean rhythm
-- perfect paragraph symmetry
-- unnatural compression
-- excessive directness
-- optimized cadence
-- emotionally sterile tone
-- robotic consistency
+> "This caused customer dissatisfaction."
 
-Then restore:
+Prefer:
 
-- one rough edge
-- one uneven transition
-- one human observation
-- one sentence with natural sprawl
+> "Refund requests doubled after that update."
 
-The goal is believable cognition.
-Not mechanical perfection.
+The implication carries itself.
+
+---
+
+# Rule 13: Natural Emotional Leakage
+
+Humans leak frustration or curiosity indirectly.
+
+Avoid:
+
+> "The process was frustrating."
+
+Prefer:
+
+> "Nobody on the team wanted to touch the checkout code anymore."
+
+Emotion emerges from behavior.
+
+---
+
+# Rule 14: Uneven Sentence Completion
+
+Humans occasionally stop early.
+
+Allowed:
+
+- trailing implication
+- partial closure
+- lightly unfinished cadence
+
+Example:
+
+> "The metrics looked fine until support volume started doing something strange."
+
+Do not resolve every thought completely.
+
+---
+
+# Rule 15: Anti-Template Enforcement
+
+Never let the piece become:
+
+- structurally balanced
+- rhythmically engineered
+- rhetorically optimized
+- perfectly symmetrical
+
+Human writing contains hidden inefficiency.
+
+Preserve some.
